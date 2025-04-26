@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "e:\\tai lieu di lam di hoc\\di lam\\Led_7doan\\build\\sketch\\sketch.ino.cpp",
+    "Include": "CD4511Display.h",
+    "Includepath": "c:\\Program Files (x86)\\Arduino\\libraries\\CD4511Display"
+  },
+  {
+    "Sourcefile": "e:\\tai lieu di lam di hoc\\di lam\\Led_7doan\\build\\sketch\\sketch.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Program Files (x86)\\Arduino\\libraries\\CD4511Display\\CD4511Display.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
